@@ -6,7 +6,7 @@ void testMethod1()
   //Second commnad print(x)
   // Edit made by safiyamuse_230218914
 
-  // Edit made by safiyamuse in Gitpod
+  // Edit made by Safiyamuse in Gitpod
 
 
   //Last line print('Good bye')
